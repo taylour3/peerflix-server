@@ -6,7 +6,7 @@ peerflix-server
 [![Node.js Version][node-version-image]][node-version-url]
 [![Build Status][travis-image]][travis-url]
 
-[![Build Status] [https://codeship.com/projects/cd99c800-80e8-0134-8009-7a2ab9e69228/status?branch=master]
+[ ![Codeship Status for taylour3/peerflix-server](https://codeship.com/projects/cd99c800-80e8-0134-8009-7a2ab9e69228/status?branch=master)](https://codeship.com/projects/182129)
 
 
 <img src="https://cdn.rawgit.com/asapach/peerflix-server/master/app/images/logo.svg" alt="logo" height="256">
