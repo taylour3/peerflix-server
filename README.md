@@ -6,6 +6,9 @@ peerflix-server
 [![Node.js Version][node-version-image]][node-version-url]
 [![Build Status][travis-image]][travis-url]
 
+https://codeship.com/projects/cd99c800-80e8-0134-8009-7a2ab9e69228/status?branch=master
+
+
 <img src="https://cdn.rawgit.com/asapach/peerflix-server/master/app/images/logo.svg" alt="logo" height="256">
 
 Streaming torrent client for node.js with web ui.
